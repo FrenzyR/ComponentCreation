@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTextBox", "LabelTextBox\LabelTextBox.csproj", "{DBF093BF-42E8-40E4-82DB-6EFF7F4025EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormTest", "FormTest\FormTest.csproj", "{BFF94045-07E7-4B11-A533-86DCDD316B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF093BF-42E8-40E4-82DB-6EFF7F4025EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF093BF-42E8-40E4-82DB-6EFF7F4025EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF093BF-42E8-40E4-82DB-6EFF7F4025EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF093BF-42E8-40E4-82DB-6EFF7F4025EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF94045-07E7-4B11-A533-86DCDD316B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF94045-07E7-4B11-A533-86DCDD316B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF94045-07E7-4B11-A533-86DCDD316B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF94045-07E7-4B11-A533-86DCDD316B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AFB4B77-23D1-4283-9ADF-F846496F71DE}
+	EndGlobalSection
+EndGlobal
